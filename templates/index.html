@@ -1,0 +1,21 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Counter</title>  
+</head>
+<body class="bg">
+    <h1>Current Counter: {{ counter }}</h1>
+    <form action="/r" method="POST">
+        <button type="submit" name="action" value="increment">Increment</button>
+        <button type="submit" name="action" value="decrement">Decrement</button>
+    </form>
+</body>
+<style>
+  .bg {
+    background-color: blue;
+  }
+</style>
+</html>
