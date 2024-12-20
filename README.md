@@ -23,6 +23,7 @@ This repository provides a boilerplate setup for building a web application usin
    ```bash
    mv flaskhtmx-boilerplate new_name
    cd new_name
+   git remote remove origin
    ```
 
 4. Create a virtual environment and activate it:
