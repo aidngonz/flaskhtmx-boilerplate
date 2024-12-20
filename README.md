@@ -1,13 +1,3 @@
-#��── app.py              # Main entry point
-├── controllers
-│   └── test.py         # Example controller
-├── models
-│   └── counter.py      # Example model
-└── templates
-    ├── counter.html    # Example template
-    └── index.html      # Homepage template
-```
-
 ---
 
 ## License
@@ -59,5 +49,5 @@ This repository provides a boilerplate setup for building a web application usin
 ## Directory Structure
 
 ```
-├── README.md           # Documentation
-�
+â”œâ”€â”€ README.md           # Documentation
+â
