@@ -16,7 +16,7 @@ This repository provides a boilerplate setup for building a web application usin
 
 1. Clone the repository:
    ```bash
-   git repo clone aidngonz/flaskhtmx-boilerplate
+   git clone https://github.com/aidngonz/flaskhtmx-boilerplate.git
    ```
    
 2. Rename the folder:
