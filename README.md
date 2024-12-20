@@ -16,27 +16,31 @@ This repository provides a boilerplate setup for building a web application usin
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git repo clone aidngonz/flaskhtmx-boilerplate
+   ```
+   
+2. Rename the folder:
+   ```bash
+   mv flaskhtmx-boilerplate new_name
    ```
 
-2. Create a virtual environment and activate it:
+4. Create a virtual environment and activate it:
    ```bash
    python -m venv venv
    source venv/bin/activate   # On Windows: venv\Scripts\activate
    ```
 
-3. Install the required packages:
+5. Install the required packages:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Run the application:
+6. Run the application:
    ```bash
    python app.py
    ```
 
-5. Open your browser and navigate to `http://127.0.0.1:5000/`.
+7. Open your browser and navigate to `http://127.0.0.1:5000/`.
 
 ---
 
