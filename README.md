@@ -1,10 +1,4 @@
----
-
-## License
-
-This project is licensed under the MIT License.
-
- Flask and HTMX Web Application Boilerplate
+# Flask and HTMX Web Application Boilerplate
 
 This repository provides a boilerplate setup for building a web application using Flask and HTMX, following the MVC (Model-View-Controller) design method.
 
@@ -49,5 +43,19 @@ This repository provides a boilerplate setup for building a web application usin
 ## Directory Structure
 
 ```
-â”œâ”€â”€ README.md           # Documentation
-â
+├── README.md           # Documentation
+├── app.py              # Main entry point
+├── controllers
+│   └── test.py         # Example controller
+├── models
+│   └── counter.py      # Example model
+└── templates
+    ├── counter.html    # Example template
+    └── index.html      # Homepage template
+```
+
+---
+
+## License
+
+This project is licensed under the MIT License.
