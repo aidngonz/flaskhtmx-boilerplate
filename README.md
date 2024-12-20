@@ -22,6 +22,7 @@ This repository provides a boilerplate setup for building a web application usin
 2. Rename the folder:
    ```bash
    mv flaskhtmx-boilerplate new_name
+   cd new_name
    ```
 
 4. Create a virtual environment and activate it:
